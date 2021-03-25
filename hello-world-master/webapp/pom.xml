@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>releases.com.unisys.elevate</groupId>
+    <groupId>com.unisys.elevate</groupId>
     <artifactId>maven-project</artifactId>
     <version>2.0.0-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
